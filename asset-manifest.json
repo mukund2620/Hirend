@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hirend/static/css/main.073c9b0a.css",
+    "main.js": "/hirend/static/js/main.8f0b685e.js",
+    "static/js/787.576f6dcb.chunk.js": "/hirend/static/js/787.576f6dcb.chunk.js",
+    "static/media/logo.svg": "/hirend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hirend/index.html",
+    "main.073c9b0a.css.map": "/hirend/static/css/main.073c9b0a.css.map",
+    "main.8f0b685e.js.map": "/hirend/static/js/main.8f0b685e.js.map",
+    "787.576f6dcb.chunk.js.map": "/hirend/static/js/787.576f6dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8f0b685e.js"
+  ]
+}
