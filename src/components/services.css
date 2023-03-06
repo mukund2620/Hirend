@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+div .service{
+    margin-top: 2rem;
+    background-color: rgb(255, 255, 255); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: black;
+}
+
+section #services{
+    margin-top: 2rem;
+    height: 100vh;
+}
+
