@@ -16,6 +16,7 @@ export default function Header() {
       setValue(data.user.email);
       localStorage.setItem("email", data.user.email);
       setUser(data.user.displayName);
+	  
     });
   };
 
